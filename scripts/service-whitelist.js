@@ -481,6 +481,8 @@ module.exports = {
       '/Settings/CGwacs/MaxDischargePower',
       '/Settings/CGwacs/OvervoltageFeedIn',
       '/Settings/CGwacs/PreventFeedback',
+      '/Settings/Gui/Brightness',
+      '/Settings/Gui/DisplayOff',
       '/Settings/SystemSetup/MaxChargeCurrent'
     ]
   }
